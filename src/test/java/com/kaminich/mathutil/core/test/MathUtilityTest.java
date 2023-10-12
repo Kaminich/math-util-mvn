@@ -1,4 +1,4 @@
-package com.kaminich.mathutil;
+package com.kaminich.mathutil.core.test;
 
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
