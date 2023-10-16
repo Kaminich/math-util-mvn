@@ -30,7 +30,7 @@ public class MathUtility {
             return 1; //nếu n đặc biệt, ta return sớm
         }
 
-        long result = 1;//sống sót đến lệnh này, sure n = 1..20
+        long result = 10;//sống sót đến lệnh này, sure n = 1..20
 
         for (int i = 2; i <= n; i++) {
             result *= i;
